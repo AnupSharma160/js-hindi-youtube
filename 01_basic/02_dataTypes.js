@@ -18,4 +18,6 @@
 
  // object 
 
- console.log(typeof null);
+ console.log(typeof null); // value is object 
+ console.log(typeof undefined);// value is undefined 
+ 
